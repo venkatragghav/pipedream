@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<header>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="C:\Users\user\Desktop\cs project\csscheatsheet\csstyle.css">
+
+	<!--<img class="back" src="C:\Users\user\Desktop\csscrashcourse\mywebsite\ssc2\ssc.assets\wallpaper.jpg" alt=" street knight">
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap" rel="stylesheet">
+	
+		<div class="button-container">
+			<button class="button-button1"><b>home</b></button>
+			<button class="button-button2"><b>feature</b></button>
+			<a href="login.html"><button class="button-button3"><b>product</b></button></a>
+			<button class="button-button4"><b>about us</b></button>
+		
+		</div>
+	
+	</div>
+	</header>
+	</div>
+	
+	</head>
+
+	<body>
+	<div>	
+	<div class="logo">
+		<img src="">
+	</div>
+      		<div class="slider">
+      			<div class="slides">
+
+      				<input type="radio" name="radio-btn"id="radio1">
+  					
+  					<input type="radio" name="radio-btn" id="radio2">
+
+  					<input type="radio" name="radio-btn"id="radio3">
+
+  					<input type="radio" name="radio-btn" id="radio4">
+
+
+  					<div class="slide first"> 
+  						<img src=" C:\Users\user\Desktop\cs project\csscheatsheet\images\arkan poster  ui 1.jpg">
+  					</div>
+
+
+  					<div class="slide"> 
+  						<img src=" C:\Users\user\Desktop\cs project\csscheatsheet\images\puma shoe ui 1.jpg">
+  					</div>
+
+
+
+  					<div class="slide"> 
+  						<img src="C:\Users\user\Desktop\cs project\htmlbody\nike fin.jpg">
+  					</div>
+
+
+  					<div class="slide"> 
+  						<img src="C:\Users\user\Desktop\cs project\htmlbody\bigil-foodbal-players-24719m4.jpg">
+  					</div>
+
+  					<div class="navauto">
+  						<div class="auto-btn1"></div>
+  						<div class="auto-btn2"></div>
+ 						<div class="auto-btn3"></div>
+ 						<div class="auto-btn4"></div>
+ 					</div>
+ 					<div class="navman">
+ 						<label for="radio1" class="manbtn"></label>
+ 						<label for="radio2" class="manbtn"></label>
+ 						<label for="radio3" class="manbtn"></label>
+ 						<label for="radio4" class="manbtn"></label>
+ 					</div>
+ 				
+
+      		</div>
+			  <div class="small-container">
+				<h2>categories</h2>
+				<div class="row">
+					<div class="col-4">
+						<img src="C:\Users\user\Desktop\cs project\csscheatsheet\images\bat.jpg">
+						<h4>cricket bat</h4>
+					</div>
+					<div class="col-4">
+						<img src="C:\Users\user\Desktop\cs project\csscheatsheet\images\bat.jpg">
+						<h4>cricket bat</h4>
+					</div>
+					<div class="col-4">
+						<img src="C:\Users\user\Desktop\cs project\csscheatsheet\images\bat.jpg">
+						<h4>cricket bat</h4>
+					</div>
+					<div class="col-4">
+						<img src="C:\Users\user\Desktop\cs project\csscheatsheet\images\bat.jpg">
+						<h4>cricket bat</h4>
+					</div>
+					<div class="col-4">
+						<img src="C:\Users\user\Desktop\cs project\csscheatsheet\images\bat.jpg">
+						<h4>cricket bat</h4>
+					</div>
+					<div class="col-4">
+						<img src="C:\Users\user\Desktop\cs project\csscheatsheet\images\bat.jpg">
+						<h4>cricket bat</h4>
+					</div>
+			</body>
+			<div class="row">
+				<div class="col-2">
+					<h1>give your workout<br>a new style</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud </p>
+					<a href="" class="btn">explore now &#8594;</a>
+				</div>
+				<div class="col-2">
+					<img src="C:\Users\user\Desktop\cs project\csscheatsheet\images\images\image1.png">
+				</div>	
+		   </div>
+
+		   
+
+ 
+
+</body>
+</html>
